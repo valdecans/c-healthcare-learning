@@ -1,0 +1,30 @@
+# Compiled files
+*.o
+*.exe
+*.out
+bin/
+
+# Backup files
+*~
+*.swp
+*.bak
+
+# IDE files
+.vscode/
+.idea/
+
+# Obsidian
+.obsidian/
+
+# Neovim / editor swap files
+*.swo
+Session.vim
+
+# Docker
+*.log
+
+# OS files
+.DS_Store
+
+# Planning/reference
+tree_folders.json
