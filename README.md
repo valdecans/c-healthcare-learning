@@ -4,7 +4,7 @@
 ![GCC](https://img.shields.io/badge/Compiler-GCC-A42E2B?logo=gnu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-dfb317.svg)](https://opensource.org/licenses/MIT)
-![Status](https://img.shields.io/badge/Status-Chapter%201-F4A100)
+![Status](https://img.shields.io/badge/Status-Chapter%203-F4A100)
 ![Course](https://img.shields.io/badge/Course-IFSULDEMINAS-003366)
 ![UFRA](https://img.shields.io/badge/Nursing-UFRA-00A896)
 ![Focus](https://img.shields.io/badge/Focus-Healthcare%20%26%20C-00A896)
@@ -44,9 +44,9 @@ c-healthcare-learning/
 
 | Chapter | Topic | Status |
 |---|---|---|
-| 01 | Introduction to C | 🔄 In progress |
-| 02 | Variables & Data Types | ⏳ Not started |
-| 03 | Operators & Expressions | ⏳ Not started |
+| 01 | Introduction to C | ✅ Done |
+| 02 | Variables & Data Types | ✅ Done |
+| 03 | Operators & Expressions | 🔄 In progress |
 | 04 | Input (`scanf`) | ⏳ Not started |
 | 05 | Conditional Statements | ⏳ Not started |
 | 06 | Loops | ⏳ Not started |
@@ -56,7 +56,7 @@ c-healthcare-learning/
 ## 🩺 Healthcare Topics Covered
 
 - Patient triage systems
-- Vital signs monitoring
+- Vital signs monitoring (typed variables: heart rate, blood pressure, O2 saturation)
 - Medication dosage calculation
 - Clinical data management
 
